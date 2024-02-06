@@ -47,7 +47,7 @@
 <p>
   
 - Programming: `Python`, `C/C++/C#`, `SQL` 
-- Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Sklearn`, `Scipy`, `TensorFlow`, `Keras`, `OpenCV`, `Numba`
+- Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Sklearn`, `Scipy`, `Pytorch`, `Keras`, `OpenCV`, `Numba`
 - IDE: `Jupyter`, `Unity3D(VR)`, `VSCode`, `PyCharm`, `Clion`, `pgAdmin`
 - Languages: `English – B2` , `Rusian – native`
 
